@@ -115,11 +115,11 @@ body{
 .projeler{
     margin-top: 30px;
     margin-left: 41%;
-    width: 600px;
-    height: 600px;
+    width: 300px;
+    height: 300px;
     border: solid white 3px;
     text-align: center;
-    margin-bottom: -750px;
+    margin-bottom: -600px;
 }
 .projeler h5{
     font: caption;
